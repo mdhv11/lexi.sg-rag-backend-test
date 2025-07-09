@@ -1,9 +1,11 @@
-fastapi
-uvicorn
+autogen
+langchain
 sentence-transformers
 faiss-cpu
 python-docx
-PyMuPDF
-llama-cpp-python
-pydantic
-python-multipart
+pymupdf
+flask
+numpy
+transformers
+accelerate
+torch
