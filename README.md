@@ -82,15 +82,15 @@ curl -X POST http://127.0.0.1:5000/query \
 
 ### Example 1
 
-<img src="screenshots/Screenshot 2025-07-09 172936.png" alt ="Example 1" width="1000">
-<img src="screenshots/Screenshot 2025-07-09 173033.png" alt ="Example 1" width="1000">
-<img src="screenshots/Screenshot 2025-07-09 173049.png" alt ="Example 1" width="1000">
+<img src="screenshots/Screenshot 2025-07-09 172936.png" alt = "example 1" width="1000"/>
+<img src="screenshots/Screenshot 2025-07-09 173033.png" alt = "example 1" width="1000"/>
+<img src="screenshots/Screenshot 2025-07-09 173049.png" alt = "example 1" width="1000"/>
 
 ### Example 2
 
-<img src="screenshots/Screenshot 2025-07-09 174144.png" alt ="Example 2" width="1000">
-<img src="screenshots/Screenshot 2025-07-09 174206.png" alt ="Example 2" width="1000">
-<img src="screenshots/Screenshot 2025-07-09 174224.png" alt ="Example 2" width="1000">
+<img src="screenshots/Screenshot 2025-07-09 174144.png" alt = "example 2" width="1000"/>
+<img src="screenshots/Screenshot 2025-07-09 174206.png" alt = "example 2" width="1000"/>
+<img src="screenshots/Screenshot 2025-07-09 174224.png" alt = "example 2" width="1000"/>
 
 ---
 
