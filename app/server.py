@@ -17,8 +17,8 @@ with open('./faiss_index/metadata.json', 'r', encoding='utf-8') as f:
 phi3_tokenizer = AutoTokenizer.from_pretrained("microsoft/phi-3-mini-4k-instruct")
 phi3_model = AutoModelForCausalLM.from_pretrained(
     "microsoft/phi-3-mini-4k-instruct",
-    torch_dtype=torch.float32,
-    device_map="cpu"
+    torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32,
+    device_map="auto"
 )
 
 app = Flask(__name__)
